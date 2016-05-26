@@ -70,9 +70,23 @@
 	</header><!-- .entry-header -->
 
 	<div class="entry-content">
+		<p><strong>Dissertation</strong></p>
+<p><em>Backlash: Defiance, Human Rights and the Politics of Shame</em></p>
+<p>When does international “naming and shaming” lead to the improvement in human rights conditions, and when does it does it backfire, resulting in the worsening of human rights practices or a backlash against international norms? Instead of asking whether international shaming “works” – the conventional approach in the human rights literature thus far – I am interested in when, where, and by whom the tactic is helpful, harmful, or irrelevant.</p>
+<p>Starting from this approach, I apply insights from sociology, social psychology, and criminology to develop a theory of international norm “defiance”, or the increase in norm offending behavior caused by a proud, shameless reaction against a sanctioning agent. I argue that instead of understanding transnational norms as emanating from some monolithic “international community,” we gain better analytic insight by considering the ways in which norms are embodied in particular actors and identities, promoted and contested between specific states in relational terms. In this way, the <i>relationship</i> between states largely determine norm interpretation, diffusion, and contestation. Shaming has a higher chance of success when it emanates from a friendly country, whereas shaming will result in defiance and norm backlash when it comes from a hostile enemy.</p>
+<p>I use a mixed-method approach to pursue this argument, including quantitative analysis of large-scale, dyadic international shaming; computational text analysis of human rights reporting; and in-depth, qualitative case studies.</p>
 <p><b style="line-height: 1.6;">Peer Reviewed Articles </b></p>
+<p>2016           “<a href="http://tcs.sagepub.com/content/early/2015/07/02/0263276415590236.abstract" target="_blank">Islamophobia, Feminism, and the Politics of Critique”</a> Theory, Culture &amp; Society. 33(2)</p>
+<p>2010           “<a href="http://www.tandfonline.com/doi/abs/10.1080/14690764.2010.546086" target="_blank">Piety of Public Participation: The Revolutionary Muslim Woman in the Islamic Republic of Iran</a>” Politics, Religion, &amp; Ideology. 11(3).</p>
+<p>2010           “<a href="http://www.degruyter.com/view/j/mwjhr.2010.7.1/mwjhr.2010.7.1.1162/mwjhr.2010.7.1.1162.xml" target="_blank">To Specify or Single Out: Should We Use the Term ‘Honor Killing’?</a>” The Muslim World Journal of Human Rights. 7(1).</p>
 <p><strong>Working Papers</strong></p>
-<p><b style="line-height: 1.6;">Technical Reports</b></p>
+<p>&#8220;Islamophobia and Media Portrayals of Muslim Women: A Computational Text Analysis of U.S. News Coverage&#8221; (under review)</p>
+<p>&#8220;The Relational Politics of Shame: Evidence from the Universal Periodic Review&#8221; (with Erik Voeten)</p>
+<p>&#8220;Backlash: Human Rights, Defiance, and the Politics of Shame&#8221;</p>
+<p><b style="line-height: 1.6;">Policy Articles and Technical Reports</b></p>
+<p>2014           “<a href="http://www.worldpolicy.org/transition-iran" target="_blank">Trans(ition) in Iran</a>” World Policy Journal<i>.</i> Spring 2014.</p>
+<p>2013           “<a href="http://www.wluml.org/sites/wluml.org/files/UN report final.pdf">Child, Early, and Forced Marriage: A Multi-Country Study with Data on Six Countries</a>” Women Living Under Muslim Laws, official submission to the OHCHR.</p>
+<p>2010           “<a href="http://www.violenceisnotourculture.org/sites/default/files/Terman_Fijabi.pdf" target="_blank">Stoning in Not Our Culture: A Comparative Analysis of Human Rights and Religious Discourses in Iran and Nigeria” Women Living Under Muslim Laws, report for CSW</a><i>.</i> With Mufuliat Fijabi.</p>
 			</div><!-- .entry-content -->
 
 	</article><!-- #post-465 -->
